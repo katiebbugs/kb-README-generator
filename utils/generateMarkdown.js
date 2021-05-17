@@ -21,7 +21,8 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "None") {
     return `This project is licensed under the following licenses:
-  *[${license}](${renderLicenseLink(license)})`
+  
+  * [${license}](${renderLicenseLink(license)})`
   }
   return 'none'
 }

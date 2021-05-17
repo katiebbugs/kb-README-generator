@@ -26,7 +26,8 @@ hi
 ## License
 
 This project is licensed under the following licenses:
-  *[MIT](https://opensource.org/licenses/MIT)
+  
+  * [MIT](https://opensource.org/licenses/MIT)
 
 ## Contributing
 

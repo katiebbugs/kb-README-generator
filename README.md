@@ -1,4 +1,6 @@
 # kb-README-generator
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 ## Description
   
@@ -28,7 +30,8 @@ It will then use your responses to create a README file.
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the following licenses:
+  * [MIT](https://opensource.org/licenses/MIT)
 
 ## Questions
 
