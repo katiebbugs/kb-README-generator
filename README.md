@@ -16,12 +16,15 @@ This application runs using node and inquirer to generate questions in your comm
 ## Installation
 
 First you will need to clone/download this project.
+
 Next make sure to install the needed npm package:
-  * [`inquirer`](https://www.npmjs.com/package/inquirer) that will prompt you for your inputs from the command line
+  * [`inquirer`](https://www.npmjs.com/package/inquirer) needed to create prompts and gather inputs for the command line
 
 ## Usage
 
-When you
+When you run `node index.js` in your command terminal the application uses the `inquirer` package to prompt you in the command line with a series of questions about you and your project.
+
+It will then use your responses to create a README file.
 
 ## License
 
